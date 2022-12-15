@@ -1,0 +1,19 @@
+.common {
+    background-color: rgb(255, 159, 104);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.unique {
+    font-size: 24px;
+}
+
+#div1 {
+    color: rgb(45, 45, 226);
+    font-size: 36px;
+}
+
+#div2 {
+    background-color: rgb(130, 224, 130);
+    font-size: 24px;
+    font-weight: bold;
+}
